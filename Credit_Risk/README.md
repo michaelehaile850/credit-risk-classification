@@ -11,7 +11,7 @@ Assess Risk: by predicting the likelihood of a loan default, finential instituti
 
 ## Result Of The Study
 
-                    Precision   Recall  F1-Score    Support
+              Precision   Recall  F1-Score    Support
 
 0(healthyloan)              1.00        0.99     1.00       18765
 
