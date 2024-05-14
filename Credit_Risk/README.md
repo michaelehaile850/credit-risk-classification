@@ -13,12 +13,12 @@ Assess Risk: by predicting the likelihood of a loan default, finential instituti
 
                     Precision   Recall  F1-Score    Support
 
-0(healthyloan)         1.00        0.99     1.00       18765
+0(healthyloan)              1.00        0.99     1.00       18765
 
-1 (High-Risk-loan)     0.84        0.94     0.89       619
+1 (High-Risk-loan)          0.84        0.94     0.89       619
 
-Macro Avg              0.92        0.97       0.94     19384      
-Weight Avg             0.99        0.99       0.99     19384
+Macro Avg                    0.92        0.97       0.94     19384      
+Weight Avg                   0.99        0.99       0.99     19384
 
 Test_Score is 99.25%
 
