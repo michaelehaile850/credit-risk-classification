@@ -19,10 +19,22 @@ Assess Risk: by predicting the likelihood of a loan default, finential instituti
 | **Weight Avg**| **0.99**  | **0.99**| **0.99** | 19384   |
 
 
-Test_Score is 99.25%
+## Result of The Study( bulleted )
+
+# Healthy Loan
+- Precision = 1.0
+- Recall    = 0.99
+
+# High Risk
+- Precision = 0.84
+- Recall    = 0.94
+
+# Test Score
+- Test score = 99.25%
+
 
 ## Summary
 
 The model perfoms exceptionally well in identifying healthy loans with nearly perfect precision and recall. in terms of high-risk-loans, while recall is high (meaning it catches most the high risk loans). percesion is somwhat low, which suggests that there are some false positives healthy-loans misclassified as high-risk. This could potentially lead to unnecessary checks or denial of loans which are actually safe, thus potentially impacting customer satisfaction negatively.
 
-Given these results, the model is highly effective and reliable, especically for it ability to flag high-risk loans, which is crucial to minimize the risk defaults.
+Given these results, the model is highly effective and reliable, especically for its ability to flag high-risk loans, which is crucial to minimize the risk defaults.
