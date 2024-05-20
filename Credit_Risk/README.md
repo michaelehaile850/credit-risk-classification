@@ -9,7 +9,7 @@ Assess Risk: by predicting the likelihood of a loan default, finential instituti
 
 - Credit Scoring: Logistic Regression helps in analyzing the borrower's finential background and other demographic factors to assign a credit score. and the score influence the decision to grant a loan.
 
-## Result Of The Study
+## Tabular Result Of The Study
 
 | Label         | Precision | Recall | F1-Score | Support |
 |---------------|-----------|--------|----------|---------|
@@ -19,7 +19,7 @@ Assess Risk: by predicting the likelihood of a loan default, finential instituti
 | **Weight Avg**| **0.99**  | **0.99**| **0.99** | 19384   |
 
 
-## Result of The Study( bulleted )
+## Bulleted Result of The Study
 
 # Healthy Loan
 - Precision = 1.0
